@@ -1,1 +1,2 @@
 # FotkiWordPress
+Test Commit
